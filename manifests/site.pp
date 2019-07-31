@@ -6,5 +6,5 @@ node default {
     }
     file { '/root/README.md':
         owner   => 'root',
-    }
+    }        
 }
